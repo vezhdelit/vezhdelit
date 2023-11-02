@@ -9,8 +9,9 @@ A passionate **React Front-End** developer from Ukraine!💙💛
 - 👨‍💻 My portfolio [vezhdelit.vercel.app](https://vezhdelit.vercel.app/)
 
 - 📫 How to reach me [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
+
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="assets/svg/github-snake.svg" alt="snake"/>
 </p>
 
 ---
