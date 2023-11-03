@@ -38,7 +38,7 @@ A passionate **React Front-End** developer from Ukraine!💙💛
   <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="50" /></a>  
   <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="50" /></a>  
   <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="Express.js" height="50" /></a>  
-  <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" width="50"/></a>  
+  <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50"/></a>  
   <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="50" /></a>  
   <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/375px-Amazon_Web_Services_Logo.svg.png" alt="AWS"  width="50" /></a>  
 </div>
@@ -49,10 +49,10 @@ A passionate **React Front-End** developer from Ukraine!💙💛
 
 ### Mobile
 <div align="center">  
-  <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+  <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" alt="Android" height="50" /></a>  
+  <a href="https://reactnative.dev/" target="_blank"><img style="margin: 10px" src="https://youteam.io/blog/wp-content/uploads/2021/11/react-native-logo.png" alt="React Native" height="50" /></a>  
   <a href="https://developer.android.com/studio" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" height="50" /></a>  
-
+  <a href="https://expo.dev/" target="_blank"><img style="margin: 10px;" src="https://seeklogo.com/images/E/expo-go-app-logo-BBBE394CB8-seeklogo.com.png" alt="Expo" height="50" /></a>  
 </div>
 
 </td>
@@ -62,6 +62,7 @@ A passionate **React Front-End** developer from Ukraine!💙💛
 ### Other Tools  
 <div align="center">  
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" height="50" /></a>  
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
   <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" height="50" /></a>  
   <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
