@@ -38,7 +38,7 @@ A passionate **React Front-End** developer from Ukraine!💙💛
   <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="50" /></a>  
   <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="50" /></a>  
   <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="Express.js" height="50" /></a>  
-  <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+  <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" width="50"/></a>  
   <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="50" /></a>  
   <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/375px-Amazon_Web_Services_Logo.svg.png" alt="AWS"  width="50" /></a>  
 </div>
