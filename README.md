@@ -1,8 +1,6 @@
 # Hi 👋, I'm Vasyl
 
-A passionate **React Front-End** developer from Ukraine!💙💛
-
-- 🌱 I’m currently learning **React Native**
+A passionate **Full-Stack developer** from Ukraine!💙💛
 
 - 👨‍💻 My portfolio [vezhdelit.vercel.app](https://vezhdelit.vercel.app/)
 
